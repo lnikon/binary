@@ -1,0 +1,57 @@
+Pin 2.13 kit 61147
+ tagmap_alloc: zero_seg ok
+ get_vdso: map: 01048000-016d6000 r-xp 00000000 08:01 2246506                            /home/binary/libdft/pin-2.13-61206-gcc.4.4.7-linux/ia3 get_vdso: map: 2/bin/pinbin
+ get_vdso: map: 016d6000-016f7000 rwxp 0068e000 08:01 2246506                            /home/binary/libdft/pin-2.13-61206-gcc.4.4.7-linux/ia3 get_vdso: map: 2/bin/pinbin
+ get_vdso: map: 016f7000-017a3000 rwxp 00000000 00:00 0 
+ get_vdso: map: 017a4000-017d4000 rwxp 00000000 00:00 0 
+ get_vdso: map: 017d4000-017d5000 ---p 00000000 00:00 0 
+ get_vdso: map: 017d5000-0181c000 rwxp 00000000 00:00 0 
+ get_vdso: map: 08048000-08049000 r-xp 00000000 08:01 2230637                            /home/binary/code/chapter11/dataleak-test-xor
+ get_vdso: map: 08049000-0804b000 rwxp 00000000 08:01 2230637                            /home/binary/code/chapter11/dataleak-test-xor
+ get_vdso: map: f5993000-f5994000 rwxp 00000000 00:00 0 
+ get_vdso: map: f5994000-f5995000 ---p 00000000 00:00 0 
+ get_vdso: map: f5995000-f5996000 r-xp 00000000 00:00 0 
+ get_vdso: map: f5996000-f6f57000 rwxp 00000000 00:00 0                                  [stack:22877]
+ get_vdso: map: f6f57000-f6f95000 r-xp 00000000 08:01 2110472                            /home/binary/libdft/pin-2.13-61206-gcc.4.4.7-linux/ia3 get_vdso: map: 2/runtime/libdwarf.so
+ get_vdso: map: f6f95000-f6f96000 rwxp 0003e000 08:01 2110472                            /home/binary/libdft/pin-2.13-61206-gcc.4.4.7-linux/ia3 get_vdso: map: 2/runtime/libdwarf.so
+ get_vdso: map: f6f96000-f7306000 r-xp 00000000 08:01 2230632                            /home/binary/code/chapter11/dta-dataleak.so
+ get_vdso: map: f7306000-f731c000 r-xp 0036f000 08:01 2230632                            /home/binary/code/chapter11/dta-dataleak.so
+ get_vdso: map: f731c000-f7326000 rwxp 00385000 08:01 2230632                            /home/binary/code/chapter11/dta-dataleak.so
+ get_vdso: map: f7326000-f734d000 rwxp 00000000 00:00 0 
+ get_vdso: map: f734d000-f74fd000 r-xp 00000000 08:01 2378437                            /lib/i386-linux-gnu/libc-2.23.so
+ get_vdso: map: f74fd000-f74ff000 r-xp 001af000 08:01 2378437                            /lib/i386-linux-gnu/libc-2.23.so
+ get_vdso: map: f74ff000-f7500000 rwxp 001b1000 08:01 2378437                            /lib/i386-linux-gnu/libc-2.23.so
+ get_vdso: map: f7500000-f7503000 rwxp 00000000 00:00 0 
+ get_vdso: map: f7503000-f751f000 r-xp 00000000 08:01 2377299                            /lib/i386-linux-gnu/libgcc_s.so.1
+ get_vdso: map: f751f000-f7520000 rwxp 0001b000 08:01 2377299                            /lib/i386-linux-gnu/libgcc_s.so.1
+ get_vdso: map: f7520000-f7573000 r-xp 00000000 08:01 2378426                            /lib/i386-linux-gnu/libm-2.23.so
+ get_vdso: map: f7573000-f7574000 r-xp 00052000 08:01 2378426                            /lib/i386-linux-gnu/libm-2.23.so
+ get_vdso: map: f7574000-f7575000 rwxp 00053000 08:01 2378426                            /lib/i386-linux-gnu/libm-2.23.so
+ get_vdso: map: f7575000-f76e2000 r-xp 00000000 08:01 1313184                            /usr/lib/i386-linux-gnu/libstdc++.so.6.0.21
+ get_vdso: map: f76e2000-f76e3000 ---p 0016d000 08:01 1313184                            /usr/lib/i386-linux-gnu/libstdc++.so.6.0.21
+ get_vdso: map: f76e3000-f76e8000 r-xp 0016d000 08:01 1313184                            /usr/lib/i386-linux-gnu/libstdc++.so.6.0.21
+ get_vdso: map: f76e8000-f76e9000 rwxp 00172000 08:01 1313184                            /usr/lib/i386-linux-gnu/libstdc++.so.6.0.21
+ get_vdso: map: f76e9000-f76ec000 rwxp 00000000 00:00 0 
+ get_vdso: map: f76ec000-f76ef000 r-xp 00000000 08:01 2378413                            /lib/i386-linux-gnu/libdl-2.23.so
+ get_vdso: map: f76ef000-f76f0000 r-xp 00002000 08:01 2378413                            /lib/i386-linux-gnu/libdl-2.23.so
+ get_vdso: map: f76f0000-f76f1000 rwxp 00003000 08:01 2378413                            /lib/i386-linux-gnu/libdl-2.23.so
+ get_vdso: map: f76f1000-f76f2000 rwxp 00000000 00:00 0 
+ get_vdso: map: f76f2000-f7708000 r-xp 00000000 08:01 2110470                            /home/binary/libdft/pin-2.13-61206-gcc.4.4.7-linux/ia3 get_vdso: map: 2/runtime/libelf.so.0.8.13
+ get_vdso: map: f7708000-f7709000 rwxp 00015000 08:01 2110470                            /home/binary/libdft/pin-2.13-61206-gcc.4.4.7-linux/ia3 get_vdso: map: 2/runtime/libelf.so.0.8.13
+ get_vdso: map: f7709000-f770b000 rwxp 00000000 00:00 0 
+ get_vdso: map: f770c000-f771f000 rwxp 00000000 00:00 0 
+ get_vdso: map: f771f000-f7741000 r-xp 00000000 08:01 2377301                            /lib/i386-linux-gnu/ld-2.23.so
+ get_vdso: map: f7741000-f7742000 ---p 00000000 00:00 0 
+ get_vdso: map: f7742000-f7743000 r-xp 00022000 08:01 2377301                            /lib/i386-linux-gnu/ld-2.23.so
+ get_vdso: map: f7743000-f7744000 rwxp 00023000 08:01 2377301                            /lib/i386-linux-gnu/ld-2.23.so
+ get_vdso: map: f7744000-f7746000 r--p 00000000 00:00 0                                  [vvar]
+ get_vdso: map: f7746000-f7748000 r-xp 00000000 00:00 0                                  [vdso]
+ get_vdso: map: f7748000-f776a000 r-xp 00000000 08:01 2377301                            /lib/i386-linux-gnu/ld-2.23.so
+ get_vdso: map: f776a000-f776b000 rwxp 00000000 00:00 0 
+ get_vdso: map: f776b000-f776d000 rwxp 00022000 08:01 2377301                            /lib/i386-linux-gnu/ld-2.23.so
+ get_vdso: map: ffae3000-ffb04000 rw-p 00000000 00:00 0 
+ get_vdso: map:  tagmap_alloc: tagmap allocation went ok. hooking elf_load elf_load: tagmap_collapse no
+ elf_load: tagmap_collapse no
+ post_mmap_hook: fixed mapping via mmap(2) at 0xf3bf1000
+ post_mmap_hook: fixed mapping via mmap(2) at 0xf3bf4000
+ elf_load: tagmap_collapse no
