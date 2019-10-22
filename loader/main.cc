@@ -35,6 +35,8 @@ main(int argc, char** argv)
             bin.filename, 
             bin.type_str.c_str(), bin.arch_str.c_str(),
             bin.bits, bin.entry);
+
+    printf("%s\n", bin.sections[0].bytes);
     
     return 0;
 }
