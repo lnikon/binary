@@ -86,6 +86,11 @@ load_symbols_bfd(bfd *bfd_h, Binary *bin)
         sym->type = Symbol::SYM_TYPE_FUNC;
         sym->name = std::string(bfd_symtab[i]->name);
         sym->addr = bfd_asymbol_value(bfd_symtab[i]);
+
+        if (bfd_symtab[i]->flags & BSF_WEAK)
+        {
+            printf("%s is weak symbol\n", sym->name.c_str());
+        }
       }
     }
   }

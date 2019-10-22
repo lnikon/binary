@@ -1,0 +1,42 @@
+Loaded binary: Ð
+;Õþ elf64-x86-64 i386:x86-64 (64 bits) entry@0x0000000000400430
+  0x0000000000400238 28       .interp              DATA /lib64/ld-linux-x86-64.so.2
+  0x0000000000400254 32       .note.ABI-tag        DATA 
+  0x0000000000400274 36       .note.gnu.build-id   DATA 
+  0x0000000000400298 28       .gnu.hash            DATA 
+  0x00000000004002b8 96       .dynsym              DATA 
+  0x0000000000400318 63       .dynstr              DATA 
+  0x0000000000400358 8        .gnu.version         DATA 
+  0x0000000000400360 32       .gnu.version_r       DATA 
+  0x0000000000400380 24       .rela.dyn            DATA ø`
+  0x0000000000400398 48       .rela.plt            DATA `
+  0x00000000004003c8 26       .init                CODE HƒìH‹% 
+  0x00000000004003f0 48       .plt                 CODE ÿ5 
+  0x0000000000400420 8        .plt.got             CODE ÿ%Ò 
+  0x0000000000400430 418      .text                CODE 1íI‰Ñ^H‰âHƒäðPTIÇÀÐ@
+  0x00000000004005d4 9        .fini                CODE HƒìHƒÄÃk¹\
+  0x00000000004005e0 30       .rodata              DATA 
+  0x0000000000400600 52       .eh_frame_hdr        DATA ;4
+  0x0000000000400638 244      .eh_frame            DATA 
+  0x0000000000600e10 8        .init_array          DATA 
+  0x0000000000600e18 8        .fini_array          DATA à@
+  0x0000000000600e20 8        .jcr                 DATA 
+  0x0000000000600e28 464      .dynamic             DATA 
+  0x0000000000600ff8 8        .got                 DATA 
+  0x0000000000601000 40       .got.plt             DATA (`
+  0x0000000000601028 16       .data                DATA 
+scanned symbol tables
+  deregister_tm_clones                     0x0000000000400460 FUNC
+  register_tm_clones                       0x00000000004004a0 FUNC
+  __do_global_dtors_aux                    0x00000000004004e0 FUNC
+  frame_dummy                              0x0000000000400500 FUNC
+  __libc_csu_fini                          0x00000000004005d0 FUNC
+  _fini                                    0x00000000004005d4 FUNC
+  printf@@GLIBC_2.2.5                      0x0000000000000000 FUNC
+  __libc_start_main@@GLIBC_2.2.5           0x0000000000000000 FUNC
+  __libc_csu_init                          0x0000000000400560 FUNC
+  _start                                   0x0000000000400430 FUNC
+  main                                     0x0000000000400526 FUNC
+  _init                                    0x00000000004003c8 FUNC
+  printf                                   0x0000000000000000 FUNC
+  __libc_start_main                        0x0000000000000000 FUNC
